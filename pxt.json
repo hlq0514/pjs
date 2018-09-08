@@ -1,0 +1,15 @@
+{
+    "name": "pjs2018",
+    "version": "1.0.0",
+    "description": "Extension for pjs",
+    "license": "MIT2",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "pjs.json"
+    ],
+    "public": true
+}
